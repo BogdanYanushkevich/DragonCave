@@ -1,0 +1,108 @@
+Weapon - Crystalys - 1950 - A blade forged from rare crystals, it seeks weak points in enemy armor.
+Weapon - Meteor Hammer - 2350 - An enchanted hammer forged of metals discovered in the ruins of a village destroyed by a great star storm.
+Weapon - Armlet of Mordiggian - 2500 - Weapon of choice among brutes, the bearer sacrifices his life energy to gain immense strength and power.
+Weapon - Skull Basher - 2875 - A feared weapon in the right hands, this maul's ability to shatter the defenses of its opponents should not be underestimated.
+Weapon - Shadow Blade - 3000 - The blade of a fallen king, it allows you to move unseen and strike from the shadows.
+Weapon - Desolator - 3500 - A wicked weapon, used in torturing political criminals.
+Weapon - Sange and Yasha - 4100 - Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.
+Weapon - Yasha and Kaya - 4100 - Yasha and Kaya when paired together share a natural resonance.
+Weapon - Battle Fury - 4100 - The bearer of this mighty axe gains the ability to cut down swaths of enemies at once.
+Weapon - Ethereal Blade - 4650 - A flickering blade of a ghastly nature, it is capable of dealing damage in both magical and physical planes.
+Weapon - Nullifier - 4725 - A dangerous weapon pilfered from an inverse dimension.
+Weapon - Butterfly - 4975 - Only the mightiest and most experienced of warriors can wield the Butterfly, but it provides incredible dexterity in combat.
+Weapon - Monkey King Bar - 4975 - A powerful staff used by a master warrior.
+Weapon - Radiance - 5050 - A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies.
+Weapon - Satanic - 5050 - Immense power at the cost of your soul.
+Weapon - Daedalus - 5150 - A weapon of incredible power that is difficult for even the strongest of warriors to control.
+Weapon - Eye of Skadi - 5300 - Extremely rare artifact, guarded by the azure dragons.
+Weapon - Silver Edge - 5450 - Once used to slay an unjust king, only to have the kingdom erupt into civil war in the aftermath.
+Weapon - Mjollnir - 5600 - Thor's magical hammer, made for him by the dwarves Brok and Eitri.
+Weapon - Divine Rapier - 5950 - So powerful, it cannot have a single owner.
+Weapon - Abyssal Blade - 6250 - The lost blade of the Commander of the Abyss, this edge cuts into an enemy's soul.
+Weapon - Bloodthorn - 6800 - A reviled blade that bites deeper with each wriggle of its victim's final throes.
+Weapon - Swift Blink - 6800 - A cunning blade able to anticipate and enable its bearer's movements.
+Weapon - Overwhelming Blink - 6800 - A horrifying dagger forged in the chaos maw and nigh untouchable by mortal hands.
+Weapon - Arcane Blink - 6800 - A revitalizing tool to help bear the weight of arcane expenditure.
+Weapon - Excalibur - 9999 - The most powerful weapon in the universe and the bearer of this legendary sword is invincible.
+Armor - Hood of Defiance - 1500 - A furred, magic resistant headpiece that is feared by wizards.
+Armor - Vanguard - 1825 - A powerful shield that defends its wielder from even the most vicious of attacks.
+Armor - Blade Mail - 2100 - A razor-sharp coat of mail, it is the choice of selfless martyrs in combat.
+Armor - Aeon Disk - 3000 - A powerful artifact long ago smuggled out of the Ivory Incubarium. Or so many believe.
+Armor - Soul Booster - 3000 - Regain lost courage.
+Armor - Eternal Shroud - 3300 - A pristine hood that feeds upon strife to empower its owner.
+Armor - Crimson Guard - 3600 - A cuirass originally built to protect against the dreaded Year Beast.
+Armor - Lotus Orb - 3850 - The jewel at its center still reflects a pale image of its creator.
+Armor - Black King Bar - 4050 - A powerful staff imbued with the strength of giants.
+Armor - Hurricane Pike - 4450 - A legendary pike once held as royal sigil of the ancient wyvern riders.
+Armor - Bloodstone - 4600 - The Bloodstone's bright ruby color is unmistakable on the battlefield, as the owner seems to have infinite vitality and spirit.
+Armor - Linken's Sphere - 4600 - This magical sphere once protected one of the most famous heroes in history.
+Armor - Manta Style - 4600 - An axe made of reflective materials that causes confusion amongst enemy ranks.
+Armor - Shiva's Guard - 4850 - Said to have belonged to a goddess, today it retains much of its former power.
+Armor - Heart of Tarrasque - 5000 - Preserved heart of an extinct monster, it bolsters the bearer's fortitude.
+Armor - Assault Cuirass - 5125 - Forged in the depths of the nether reaches, this hellish mail provides an army with increased armor and attack speed.
+Magical - Veil of Discord - 1525 - The headwear of corrupt magi.
+Magical - Glimmer Cape - 1950 - The stolen cape of a master illusionist.
+Magical - Force Staff - 2200 - Allows you to manipulate others, for good or evil.
+Magical - Aether Lens - 2275 - Polished with the incantation of his final breath, the gift of a dying mage to his sickly son.
+Magical - Witch Blade - 2380 - A spiteful blade inadvertently possessed by the soul of its incautious creator.
+Magical - Solar Crest - 2625 - A talisman forged to honor the daytime sky.
+Magical - Dagon - 2700 - A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.
+Magical - Eul's Scepter of Divinity - 2725 - A mysterious scepter passed down through the ages, its disruptive winds can be used for good or evil.
+Magical - Rod of Atos - 2750 - Atos, the Lord of Blight, has his essence stored in this deceptively simple wand.
+Magical - Orchid Malevolence - 3475 - A garnet rod constructed from the essence of a fire demon.
+Magical - Aghanim's Scepter - 4200 - The scepter of a wizard with demigod-like powers.
+Magical - Refresher Orb - 5000 - A powerful artifact created for wizards.
+Magical - Octarine Core - 5275 - At the core of spellcraft are spectrums only the very gifted can sense.
+Magical - Scythe of Vyse - 5675 - The most guarded relic among the cult of Vyse, it is the most coveted weapon among magi.
+Magical - Aghanim's Blessing - 5800 - The scepter of a wizard with demigod-like powers.
+Magical - Gleipnir - 6150 - Bindings forged by impossible means to leash an ancient evil.
+Magical - Revenant's Brooch - 6200 - The cursed brooch of a fallen guardian who stalks forever between the veil of life and death.
+Magical - Wind Waker - 6825 - Proof enough to some that unseen forces manipulate the happenings of the material plane.
+Accessories - Magic Wand - 450 - A simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike.
+Accessories - Bracer - 505 - The bracer is a common choice to toughen up defenses and increase longevity.
+Accessories - Null Talisman - 505 - A small gemstone attached to several chains.
+Accessories - Wraith Band - 505 - A circlet with faint whispers echoing about it.
+Accessories - Soul Ring - 700 - A ring that feeds on the souls of those who wear it.
+Accessories - Orb of Corrosion - 925 - Seepage from the wounds of a warrior deity, sealed in an arcanist's orb following a campaign of vicious slaughter.
+Accessories - Falcon Blade - 1125 - An enchanted blade that long ago raised a hopeless urchin from pauper to king.
+Accessories - Power Treads - 1400 - A pair of tough-skinned boots that change to meet the demands of the wearer.
+Accessories - Oblivion Staff - 1500 - Deceptively hidden as an ordinary quarterstaff, it is actually very powerful, much like the Eldritch who originally possessed it.
+Accessories - Phase Boots - 1500 - Boots that allow the wearer to travel between the ether.
+Accessories - Perseverance - 1650 - A gem that grants heart to the bearer.
+Accessories - Mask of Madness - 1775 - Once this mask is worn, its bearer becomes an uncontrollable aggressive force.
+Accessories - Hand of Midas - 2200 - Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets.
+Accessories - Helm of the Dominator - 2400 - The powerful headpiece of a dead necromancer.
+Accessories - Boots of Travel - 2500 - Winged boots that grant omnipresence.
+Accessories - Moon Shard - 4000 - Said to be a tear from the lunar goddess Selemene.
+Accessories - Helm of the Overlord - 6175 - The powerful headpiece of a dead necromancer.
+Consumables - Observer Ward - 1 - A form of half-sentient plant, often cultivated by apprentice wizards.
+Consumables - Clarity - 50 - Clear water that enhances the ability to meditate.
+Consumables - Sentry Ward - 50 - A form of plant originally grown in the garden of a fearful king.
+Consumables - Smoke of Deceit - 50 - The charlatan wizard Myrddin's only true contribution to the arcane arts.
+Consumables - Enchanted Mango - 65 - The bittersweet flavors of Jidi Isle are irresistible to amphibians.
+Consumables - Faerie Fire - 70 - The ethereal flames from the ever-burning ruins of Kindertree ignite across realities.
+Consumables - Tome of Knowledge - 75 - That which raises beast to man and man to god.
+Consumables - Dust of Appearance - 80 - One may hide visage, but never volume.
+Consumables - Tango - 90 - Forage to survive on the battlefield.
+Consumables - Healing Salve - 100 - A magical salve that can quickly mend even the deepest of wounds.
+Consumables - Town Portal Scroll - 100 - What a hero truly needs.
+Consumables - Bottle - 675 - An old bottle that survived the ages, the contents placed inside become enchanted.
+Consumables - Aghanim's Shard - 1400 - With origins known only to a single wizard, fragments of this impossible crystal are nearly as coveted as the renowned scepter itself.
+Consumables - Ancient Salt - 1500 - A salt that was once used to preserve the secrets of the ancient magi.
+Consumables - Ancient Secret - 1500 - A secret that was once used to preserve the secrets of the ancient magi.
+Consumables - Ancient Relic - 1500 - A relic that was once used to preserve the secrets of the ancient magi.
+Attributes - Iron Branch - 50 - A seemingly ordinary branch, its ironlike qualities are bestowed upon the bearer.
+Attributes - Gauntlets of Strength - 140 - Studded leather gloves that add brute strength.
+Attributes - Mantle of Intelligence - 140 - A beautiful sapphire mantle worn by generations of queens.
+Attributes - Slippers of Agility - 140 - Light boots made from spider skin that tingles your senses.
+Attributes - Circlet - 155 - An elegant circlet designed for human princesses.
+Attributes - Band of Elvenskin - 450 - A tensile fabric often used for its light weight and ease of movement.
+Attributes - Belt of Strength - 450 - A valued accessory for improving vitality.
+Attributes - Crown - 450 - A stately crown created to ensure a well-meaning but ungifted heir could fend off usurpers and govern with a strong hand.
+Attributes - Robe of the Magi - 450 - This robe corrupts the soul of the user, but provides wisdom in return.
+Attributes - Blade of Alacrity - 1000 - A long blade imbued with time magic.
+Attributes - Staff of Wizardry - 1000 - A staff of magical powers passed down from the eldest mages.
+Attributes - Orb of Venom - 1000 - A magical orb that can be used to poison enemies.
+Attributes - Quelling Blade - 1000 - A sword that can be used to silence enemies.
+Attributes - Staff of the Magi - 1000 - A staff of magical powers passed down from the eldest mages.
+
